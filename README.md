@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+October 14th 2019
 
 ### Project Title
-Replace the Project Title
+Bike Share Project
 
 ### Description
-Describe what your project is about and what it does
+This project is part of Udacity Programming for Data Science Nanodegree Program. The purpose of this project is to explore the bikeshare databases in 3 different U.S. cities, using Python.
 
 ### Files used
-Include the files used
+Bikeshare.py is the main file. 3 data files are chicago.csv, new_york_city.csv, and washington.csv.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+N/A.
