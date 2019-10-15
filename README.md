@@ -1,5 +1,5 @@
 ### Date created
-October 14th 2019
+October 3rd 2019
 
 ### Project Title
 Bike Share Project
@@ -11,4 +11,4 @@ This project is part of Udacity Programming for Data Science Nanodegree Program.
 Bikeshare.py is the main file. 3 data files are chicago.csv, new_york_city.csv, and washington.csv.
 
 ### Credits
-N/A.
+Credits go to my fellow classmates on Udacity.
