@@ -20,7 +20,7 @@ def get_filters():
 # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     cities = ['chicago','new york city','washington']
     while True:
-        city = input("What city do you want to explore? Choose one of these options: Chicago, New York City, Washington ->> your call:").lower()
+        city = input("What city do you want to explore? Choose one of these options: Chicago, New York City, Washington ->> Your input is:").lower()
         if city not in cities:
             print("Please make sure you choose one of the three options given.")
             continue
@@ -30,7 +30,7 @@ def get_filters():
 # TO DO: get user input for month (all, january, february, ... , june)
     months = ['january','february','march','april','may','june','all']
     while True:
-        month = input("Do you have a specific month you want to explore? Options are between January and June. You may also choose all ->> your call:").lower()
+        month = input("Do you have a specific month you want to explore? Options are between January and June. You may also choose all ->> Your input is:").lower()
         if month not in months:
             print("Please make sure you choose one of the months between January and June, or all. Notice: Plz type the full month, not use abbreviations.")
             continue
@@ -40,7 +40,7 @@ def get_filters():
 # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     days = ['monday','tuesday','wednesday','thursday','friday','saturday','sunday','all']
     while True:
-        day = input("How's about a specific day you are interested in? You can choose any day of the week or all ->> your call:").lower()
+        day = input("How's about a specific day you are interested in? You can choose any day of the week or all ->> Your input is:").lower()
         if day not in days:
             print("Please make sure you type correctly a day of the week, or all, try again. Notice: Plz type the full month, not use abbreviations.")
             continue
